@@ -15,8 +15,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //val layout = findViewById<l>()
-
         //val linear1 = findViewById<LinearLayoutCompat>(R.id.linearLayoutCompat)
         val dice1 = findViewById<ImageView>(R.id.imageView1)
         val dice2 = findViewById<ImageView>(R.id.imageView2)
